@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/MuthoniMN/our-team-page">
       Solution
     </a>
     <span> | </span>
@@ -36,14 +36,14 @@
 
 ## Overview
 
-![screenshot](/Our-Team.webm)
+![screenshot](/Our-Team.gif)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
 - This was an amazing experience. Definitely thought-provoking
-- This was my first interaction with CSS grid and I've learnt that it isn't as difficult as I thought 
-- Being bad at something doesn't mean that you have failed rather it's a learning opportunity 
+- This was my first interaction with CSS grid and I've learnt that it isn't as difficult as I thought
+- Being bad at something doesn't mean that you have failed rather it's a learning opportunity
 
 ### Built With
 
@@ -57,7 +57,6 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U) was to build an application to complete the given user stories.
-
 
 ## Acknowledgements
 
