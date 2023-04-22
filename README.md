@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://about-our-team-page.netlify.app/">
       Demo
     </a>
     <span> | </span>
@@ -38,9 +38,9 @@
 
 ![screenshot](/Our-Team.gif)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- Where can I see your demo?
+- <a href="https://about-our-team-page.netlify.app/">
+      Check out the demo
+    </a>
 - This was an amazing experience. Definitely thought-provoking
 - This was my first interaction with CSS grid and I've learnt that it isn't as difficult as I thought
 - Being bad at something doesn't mean that you have failed rather it's a learning opportunity
